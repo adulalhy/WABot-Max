@@ -1,6 +1,7 @@
 {
   "name": "maxbot3",
   "version": "3.0.0",
+  "node": "^17.1.0",
   "description": "Bot simples de WhatsApp feito do zero",
   "scripts": {
     "start": "node .",
