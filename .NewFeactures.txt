@@ -1,0 +1,42 @@
+Este arquivo serve exclusivamente pra organizar e ter um mapa mental sobre as funções que já existem e as que vão ser criadas.
+
+====================
+FUNÇÕES JÁ EXISTENTES:
+
+~> contador de mensagens:
+> aprimorar a contagem (remover bugs)
+> criar uma função que retorna um array contendo todos os usuarios com mensagens inferiores a um valor x.
+> ranking de membros mais ativos 
+FINALIZADO
+=====================
+~> contador de comandos (quase pronto) 
+> Terminar a função que organiza os comandos usados. Cria e retorna um objeto com duas propriedades. A primeira é o nome do comando, a segunda é o total de vezes que o comando foi usado. Desta forma:
+{
+   "cmd": "menu",
+   "total": 30,
+}
+
+~> pegar as informações dessa função e criar outra função que cria uma ordem dos 5 comandos mais usados (rank de comandos)
+ 
+=====================
+~> Sistema de avisos (Discord):
+> Este sistema permite adicionar até 3 avisos pra cada membro de um grupo. Quando um membro acumula 3 avisos, ele é removido
+
+> Adicionar a propriedade expired, que vai remover o aviso depois de um tempo determinado (1 semana, por exemplo)
+
+> remover alguns bugs e implementar
+=====================
+
+~> Sistema de dinheiro:
+~> A princípio a ideia é que à medida que o usuário vai usando os comandos, ele gaste uma quantia de dinheiro. Ao passo que ela ganha uma certa quantia ao conversar no grupo.
+
+~> Também é possivel criar um sistema com banco e transferência entre membros
+
+~> Sistema separado por grupos. Cada grupo tem a sua moeda e sua própria inflação
+
+
+
+======================
+FUNÇÕES/COMANDOS QUE AINDA NÃO EXISTEM:
+
+~> comando play usando modulos npm 

@@ -1,0 +1,25 @@
+{
+  "name": "maxbot3",
+  "version": "3.0.0",
+  "description": "Bot simples de WhatsApp feito do zero",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon index.js --ext js",
+    "prod": "sh start.sh",
+    "pm2": "pm2 start index.js --name=WABot-Max"
+  },
+  "author": "https://github.com/LucasHRTeam",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.0.0",
+    "cfonts": "^2.10.0",
+    "mongodb": "^4.1.2"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "baileys-md"
+  ]
+}

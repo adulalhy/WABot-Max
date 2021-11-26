@@ -1,0 +1,29 @@
+[
+    {
+        "groupId": "553398333489-1635354552@g.us",
+        "player": "559284928452@s.whatsapp.net",
+        "expired": 120,
+        "word": {
+            "normal": "CASA",
+            "embaralhada": "SCAA"
+        }
+    },
+    {
+        "groupId": "556999815493-1635711207@g.us",
+        "player": "554488637887@s.whatsapp.net",
+        "expired": 120,
+        "word": {
+            "normal": "BOLA",
+            "embaralhada": "ALOB"
+        }
+    },
+    {
+        "groupId": "556999815493-1615751840@g.us",
+        "player": "5524999236508@s.whatsapp.net",
+        "expired": 120,
+        "word": {
+            "normal": "CASA",
+            "embaralhada": "SCAA"
+        }
+    }
+]

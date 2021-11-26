@@ -1,0 +1,39 @@
+[
+    {
+        "groupId": "120363019452877332@g.us",
+        "expired": 1639337575792,
+        "info": [
+            {
+                "simi": false,
+                "welcome": false
+            }
+        ]
+    },
+    {
+        "groupId": "120363038945351063@g.us",
+        "expired": 1639339988349,
+        "info": [
+            {
+                "simi": true
+            }
+        ]
+    },
+    {
+        "groupId": "556999815493-1615751840@g.us",
+        "expired": 1639413202953,
+        "info": [
+            {
+                "simi": false
+            }
+        ]
+    },
+    {
+        "groupId": "19804004531-1621932570@g.us",
+        "expired": 1639576424144,
+        "info": [
+            {
+                "welcome": true
+            }
+        ]
+    }
+]

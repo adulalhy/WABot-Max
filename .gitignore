@@ -1,0 +1,8 @@
+# Dependências adicionais
+node_modules/
+
+# modulo @adiwajshing/baileys
+./custom_modules
+
+# Cache npm
+.npm
